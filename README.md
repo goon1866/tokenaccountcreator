@@ -1,3 +1,4 @@
 # tokenaccountcreator
 Uses Capmonster and proxies
-The Key is Admin
+The Key For The Tool Is Admin
+Proxies U Can Get From Proxyscrape
